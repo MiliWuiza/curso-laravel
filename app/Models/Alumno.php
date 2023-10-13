@@ -13,4 +13,3 @@ class Alumno extends Model
     protected $guarded = ['id'];
     protected $primaryKey = 'id';   
 }
- 
